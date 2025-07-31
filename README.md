@@ -3,6 +3,11 @@
 Welcome to the Coffee Shop Menu app!  
 Order your favourite drinks, see your cart, and enjoy a smooth UI experience.  
 
+<img width="1876" height="925" alt="image" src="https://github.com/user-attachments/assets/f3b42de8-caaf-4f04-8e87-537202595325" />
+<img width="1877" height="705" alt="image" src="https://github.com/user-attachments/assets/c7a96325-dac0-4c9e-8c51-e62410a7970a" />
+
+
+
 ---
 
 ## 🚀 Features
